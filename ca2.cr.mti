@@ -1,0 +1,99 @@
+{D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/RISC_V.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\RISC_V.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V
+
+Top level modules:
+	RISC_V
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/ImmediateExtend.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\ImmediateExtend.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ImmExtension
+
+Top level modules:
+	ImmExtension
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/TestBench.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\TestBench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/RISC_V_Controller.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\RISC_V_Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V_Controller
+
+Top level modules:
+	RISC_V_Controller
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/MainController.v} {1 {vlog -work work -stats=none {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/MainController.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MainController
+
+Top level modules:
+	MainController
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/RISC_V_Datapath.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\RISC_V_Datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V_Datapath
+
+Top level modules:
+	RISC_V_Datapath
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/Registerfile.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\Registerfile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/Register.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/Mux2to1.v} {1 {vlog -work work -stats=none {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/Mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2to1
+
+Top level modules:
+	Mux2to1
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/Mux4to1.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\Mux4to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux4to1
+
+Top level modules:
+	Mux4to1
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/BranchController.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\BranchController.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BranchController
+
+Top level modules:
+	BranchController
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/ALU.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/InstrDataMemory.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\InstrDataMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstrDataMemory
+
+Top level modules:
+	InstrDataMemory
+
+} {} {}} {D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/ALU_Controller.v} {1 {vlog -work work -stats=none {D:\university\ee\dars\computerArchitecture\CA\CA2\verilog codes\ALU_Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_Controller
+
+Top level modules:
+	ALU_Controller
+
+} {} {}}

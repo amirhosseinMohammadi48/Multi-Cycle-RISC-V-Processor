@@ -1,0 +1,78 @@
+# Compile of ALU.v was successful.
+# Compile of ALU_Controller.v was successful.
+# Compile of BranchController.v was successful.
+# Compile of ImmediateExtend.v was successful.
+# Compile of InstrDataMemory.v was successful.
+# Compile of MainController.v was successful.
+# Compile of Mux2to1.v was successful.
+# Compile of Mux4to1.v was successful.
+# Compile of Register.v was successful.
+# Compile of Registerfile.v was successful.
+# Compile of RISC_V.v was successful.
+# Compile of RISC_V_Controller.v was successful.
+# Compile of RISC_V_Datapath.v was successful.
+# Compile of TestBench.v was successful.
+# 14 compiles, 0 failed with no errors.
+vsim work.TB
+# vsim work.TB 
+# Start time: 21:50:33 on Jun 03,2026
+# Loading work.TB
+# Loading work.RISC_V
+# Loading work.RISC_V_Controller
+# Loading work.MainController
+# Loading work.ALU_Controller
+# Loading work.BranchController
+# Loading work.RISC_V_Datapath
+# Loading work.Register
+# Loading work.Mux2to1
+# Loading work.Mux4to1
+# Loading work.ImmExtension
+# Loading work.ALU
+# Loading work.InstrDataMemory
+# Loading work.RegisterFile
+add wave -position insertpoint sim:/TB/risc_v/*
+run -all
+# ** Note: $stop    : D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/TestBench.v(10)
+#    Time: 500008 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/TestBench.v line 10
+# Compile of ALU.v was successful.
+# Compile of ALU_Controller.v was successful.
+# Compile of BranchController.v was successful.
+# Compile of ImmediateExtend.v was successful.
+# Compile of InstrDataMemory.v was successful.
+# Compile of MainController.v was successful.
+# Compile of Mux2to1.v was successful.
+# Compile of Mux4to1.v was successful.
+# Compile of Register.v was successful.
+# Compile of Registerfile.v was successful.
+# Compile of RISC_V.v was successful.
+# Compile of RISC_V_Controller.v was successful.
+# Compile of RISC_V_Datapath.v was successful.
+# Compile of TestBench.v was successful.
+# 14 compiles, 0 failed with no errors.
+vsim work.TB
+# End time: 22:11:31 on Jun 03,2026, Elapsed time: 0:20:58
+# Errors: 0, Warnings: 3
+# vsim work.TB 
+# Start time: 22:11:32 on Jun 03,2026
+# Loading work.TB
+# Loading work.RISC_V
+# Loading work.RISC_V_Controller
+# Loading work.MainController
+# Loading work.ALU_Controller
+# Loading work.BranchController
+# Loading work.RISC_V_Datapath
+# Loading work.Register
+# Loading work.Mux2to1
+# Loading work.Mux4to1
+# Loading work.ImmExtension
+# Loading work.ALU
+# Loading work.InstrDataMemory
+# Loading work.RegisterFile
+add wave -position insertpoint sim:/TB/risc_v/*
+run -all
+# ** Note: $stop    : D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/TestBench.v(10)
+#    Time: 500008 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at D:/university/ee/dars/computerArchitecture/CA/CA2/verilog codes/TestBench.v line 10
+# End time: 22:12:49 on Jun 03,2026, Elapsed time: 0:01:17
+# Errors: 0, Warnings: 1
